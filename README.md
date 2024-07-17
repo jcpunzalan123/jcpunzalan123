@@ -29,4 +29,4 @@
 
 
 ## Projects
-👨‍💻 All of my projects are available at my [Visit GitHub](https://github.com).
+👨‍💻 All of my projects are available at my [GitHub](https://github.com).
